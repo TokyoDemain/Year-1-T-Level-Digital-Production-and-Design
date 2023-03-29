@@ -1,0 +1,14 @@
+| ID: 1143576 | Name: bread | Department: food | Warehouse Location: A7 | Stock Amount: 254 | Price Ex VAT: 1.00 | Price Inc VAT: 1.20 | | ID: 1234567 | Name: toast | Department: food | Warehouse Location: A7 | Stock Amount: 123 | Price Ex VAT: 1.20 | Price Inc VAT: 1.00 | 
+| ID: 1234567 | Name: toast | Department: Food | Warehouse Location: A7 | Stock Amount: 123 | Price Ex VAT: 1.20 | Price Inc VAT: 1.10 | 
+| ID: 1234568 | Name: Jam | Department: Food | Warehouse Location: A5 | Stock Amount: 2546 | Price Ex VAT: 1.00 | Price Inc VAT: 1.20 | 
+| ID: 1234567 | Name: powerdrill | Department: PowerTools | Warehouse Location: B3 | Stock Amount: 145 | Price Ex VAT: 100.00 | Price Inc VAT: 120 | 
+| ID: 1234567 | Name: Drill | Department: PowerTools | Warehouse Location: B3 | Stock Amount: 123 | Price Ex VAT: 100.00 | Price Inc VAT: 120.00 | Date and time of entry: 17/10/22 14:43 | 
+| ID: 1234567 | Name: Drill | Department: Power Tools | Warehouse Location: B3 | Stock Amount: 145150 | Price Ex VAT: 100.00 | Price Inc VAT: 120.00 | Date and time of entry: 17/10/22 14:45 | 
+| ID: 1234567 | Name: Drill | Department: Power Tools | Warehouse Location: B3 | Stock Amount: 295 | Price Ex VAT: 100.00 | Price Inc VAT: 120.00 | Date and time of entry: 17/10/22 | 
+| ID: 1234567 | Name: bread | Department: food | Warehouse Location: A7 | Stock Amount: 145 | Price Ex VAT: £1.0 | Price Inc VAT: £1.2 | Date and time of entry: priceInclVAT | 
+| ID: 1234567 | Name: Test | Department: Test | Warehouse Location: 1 | Stock Amount: 3 | Price Ex VAT: £50.0 | Price Inc VAT: £60.0 | Date and time of entry: 12/02/22 12:30 | 
+| ID: 1234567 | Name: bread | Department: food | Warehouse Location: A& | Stock Amount:  | Price Ex VAT: £1.0 | Price Inc VAT: £1.2 | Date and time of entry: 17/10/2022 | 
+| ID: 1234567 | Name: bread | Department: food | Warehouse Location: 1234567 | Stock Amount: 123 | Price Ex VAT: £1.0 | Price Inc VAT: £1.2 | Date and time of entry: ('17/10/2022', '16:17') | 
+| ID: 1234567 | Name: bread | Department: food | Warehouse Location: A7 | Stock Amount: 145 | Price Ex VAT: £1.0 | Price Inc VAT: £1.2 | Date and time of entry: ('17/10/2022', '16:19') | 
+| ID: 1234567 | Name: drill | Department: b | Warehouse Location: c | Stock Amount: 24 | Price Ex VAT: 20.0 | Price Inc VAT: 24.0 | Date and time of entry: ('18/10/2022', '14:30') | 
+| ID: 1234567 | Name: bread | Department: food | Warehouse Location: A7 | Stock Amount: 144 | Price Ex VAT: £1.0 | Price Inc VAT: £1.2 | Date and time of entry: ('01/11/2022', '14:23') | 

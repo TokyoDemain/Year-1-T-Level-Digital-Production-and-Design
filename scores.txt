@@ -1,0 +1,8 @@
+tokyo: 100. Date: march. Subject: maths.
+tokyo -- 100. Date -- march. Subject -- maths.
+tokyo -- 100| Date -- march| Subject -- maths|
+tokyo -- 100 | Date -- march | Subject -- maths |
+tokyo: 100 | Date: march | Subject: maths |
+Alex: 3 | Date: 1967 | Subject: gynocology |
+tokyo: 100 | Grade: A* | Date: march | Subject: maths |
+tokyo: 100 | Grade: A* | Date: march | Subject: maths |
